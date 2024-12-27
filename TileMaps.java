@@ -1,0 +1,90 @@
+public class TileMaps {
+    private String[][] tileMaps = {
+        // Map 1
+        {
+            "XXXXXXXXXXXXXXXXXXX",
+            "X   p       o     X",
+            "X XXXXXX XXXXXX X X",
+            "X X     X     X X X",
+            "X X XXXXXX XXXXXX X",
+            "X X X           X X",
+            "X X X XXXXXX X  X X",
+            "X X X       X  X X",
+            "X XXXXXXXXXXXX  X X",
+            "X      P         X",
+            "X XXXXXXXXXXXX  X X",
+            "X X X       X  X X",
+            "X X X XXXXXX X  X X",
+            "X X X           X X",
+            "X X XXXXXX XXXXXX X",
+            "X X     X     X X X",
+            "X XXXXXX XXXXXX X X",
+            "X     r       s   X",
+            "XXXXXXXXXXXXXXXXXXX"
+        },
+        // Map 2
+        {
+            "XXXXXXXXXXXXXXXXXXX",
+            "X X     X     X   X",
+            "X X XXXX XXXX X X X",
+            "X X X       X X X X",
+            "X   X XXXXXX X   X",
+            "XXX X       X XXX X",
+            "X   X XXXXXX X   X",
+            "X X X       X X X X",
+            "X X X XXXX X X X X",
+            "X X X    P  X X X X",
+            "X X XXXXXX X X X X",
+            "X X        X X X X",
+            "X XXX XXXXXXXX X X",
+            "X   o       r   X",
+            "X XXXXXXXXXXXXXX X",
+            "X X             X X",
+            "X XXXXXXXXXXXXXXX X",
+            "X   s         p   X",
+            "XXXXXXXXXXXXXXXXXXX"
+        },
+        // Map 3
+        {
+            "XXXXXXXXXXXXXXXXXXX",
+            "X   o           X X",
+            "X XXX XXXX XXXX X X",
+            "X     X      X    X",
+            "X XXX X XXXX X XXX",
+            "X X   X    X X   X",
+            "X X XXX XX X XXX X",
+            "X X   X pX X   X X",
+            "X X XXXXXX XXX X X",
+            "X X X    P    X X X",
+            "X X XXXXXXXXX X X X",
+            "X X   X  s   X X X",
+            "X X XXX XXXX XXX X",
+            "X     X      r   X",
+            "X XXX XXXX XXXX XXX",
+            "X     X      X    X",
+            "X XXX XXXXXX X XXX",
+            "X   X        X   X",
+            "XXXXXXXXXXXXXXXXXXX"
+        },
+        // Map 4
+        {
+            "XXXXXXXXXXXXXXXXXXX",
+            "X X   X       X X X",
+            "X X XXXXXX X X X X",
+            "X X       X X X X X",
+            "X XXX XXXX X X X X",
+            "X   X      X X X X",
+            "XXX X XXXXXX X X X",
+            "X   X X      X   X",
+            "X XXX XXXXXXXX XXX",
+            "X X           X X X",
+            "X X XXXXXX XXXXXX X",
+            "X X      r       X",
+            "X XXX XXXXXX XXXX X",
+            "X    X        s   X",
+            "X XXXXXXXXXXXXXXX X",
+            "X     o   p      X",
+            "XXXXXXXXXXXXXXXXXXX"
+        }
+    };
+}
